@@ -1,5 +1,5 @@
 ;; -*- mode: emacs-lisp; coding: utf-8-unix -*-
-;;; mime-dusplay.el --- emoji displaying module
+;;; mime-display.el --- emoji displaying module
 
 ;; Copyright (C) 2011  Kazuhiro Ito
 
