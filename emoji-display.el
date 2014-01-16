@@ -1,8 +1,9 @@
-;;; mime-display.el --- emoji displaying module -*- coding: utf-8-unix -*-
+;;; emoji-display.el --- emoji displaying module -*- coding: utf-8-unix -*-
 
 ;; Copyright (C) 2011  Kazuhiro Ito
 
 ;; Author: Kazuhiro Ito <kzhr@d1.dion.ne.jp>
+;; URL: https://github.com/ikazuhiro/emoji-display
 ;; Keywords: emoji
 
 ;; This program is free software; you can redistribute it and/or modify
