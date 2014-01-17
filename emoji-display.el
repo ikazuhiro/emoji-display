@@ -918,6 +918,7 @@
 
 
 ;; UI functions
+;;;###autoload
 (define-minor-mode emoji-display-mode
   "Toggle emoji displaying mode."
   :global t
